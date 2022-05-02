@@ -50,5 +50,6 @@ public class HomeWork0 implements HomeWork{
 
 	@Override
 	public void solution(String inputData) {
+		
 	}
 }
